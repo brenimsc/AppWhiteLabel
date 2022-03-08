@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "254888030404",
+    "project_id": "white-label-776f7",
+    "storage_bucket": "white-label-776f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254888030404:android:ba357f9e5e01a3f4abd991",
+        "android_client_info": {
+          "package_name": "br.com.breno.whitelabel.bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254888030404-2bi4d8skc9dkhd3m5npr8tom8c5g6srv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA43q9x_MVqE0wqPS_wYM9Q4zRIg2BbZWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254888030404-2bi4d8skc9dkhd3m5npr8tom8c5g6srv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254888030404:android:b3b535dac9e49685abd991",
+        "android_client_info": {
+          "package_name": "br.com.breno.whitelabel.bike.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254888030404-2bi4d8skc9dkhd3m5npr8tom8c5g6srv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA43q9x_MVqE0wqPS_wYM9Q4zRIg2BbZWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254888030404-2bi4d8skc9dkhd3m5npr8tom8c5g6srv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254888030404:android:9ea70149f4767659abd991",
+        "android_client_info": {
+          "package_name": "br.com.breno.whitelabel.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254888030404-2bi4d8skc9dkhd3m5npr8tom8c5g6srv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA43q9x_MVqE0wqPS_wYM9Q4zRIg2BbZWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254888030404-2bi4d8skc9dkhd3m5npr8tom8c5g6srv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254888030404:android:16c68a7256c523e3abd991",
+        "android_client_info": {
+          "package_name": "br.com.breno.whitelabel.car.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254888030404-2bi4d8skc9dkhd3m5npr8tom8c5g6srv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA43q9x_MVqE0wqPS_wYM9Q4zRIg2BbZWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254888030404-2bi4d8skc9dkhd3m5npr8tom8c5g6srv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
